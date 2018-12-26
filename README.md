@@ -1,4 +1,4 @@
-# raspberry_pi_shell_scripts
+# loeliger_raspberry_pi_scripts
 
 This repo contains my common To Do list for setting up new Raspberry Pi's as well as common shell and cron scripts.
 
@@ -23,6 +23,7 @@ This repo contains my common To Do list for setting up new Raspberry Pi's as wel
 
 
 #################### alias's #####################
+
 alias logs='cd //home/pi/logs/'
 
 alias pythons='cd //home/pi/Python_Scripts/'
