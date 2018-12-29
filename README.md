@@ -29,4 +29,6 @@ alias logs='cd //home/pi/logs/'
 
 alias pythons='cd //home/pi/Python_Scripts/'
 
+alias shells='cd //home/pi/Shell_Scripts/'
+
 alias ericls='ls -l -h'
